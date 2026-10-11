@@ -1,0 +1,47 @@
+- generic [ref=e270]:
+  - generic [ref=e271]:
+    - banner [ref=e272]:
+      - generic [ref=e273]:
+        - generic [ref=e274]:
+          - button "Open Menu" [ref=e275] [cursor=pointer]
+          - img "Open Menu" [ref=e276]
+        - generic [ref=e277]: Swag Labs
+        - button "Cart, 1 items" [ref=e280]:
+          - generic [ref=e281]: "1"
+      - generic [ref=e282]: "Checkout: Overview"
+    - main [ref=e284]:
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - generic [ref=e287]: QTY
+          - generic [ref=e288]: Description
+          - generic [ref=e289]:
+            - generic [ref=e290]: "1"
+            - generic [ref=e291]:
+              - button "View details for Sauce Labs Onesie" [ref=e292] [cursor=pointer]:
+                - generic [ref=e293]: Sauce Labs Onesie
+              - generic [ref=e294]: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+              - generic [ref=e295]: $7.99
+        - generic [ref=e297]:
+          - generic [ref=e298]: "Payment Information:"
+          - generic [ref=e299]: "SauceCard #31337"
+          - generic [ref=e300]: "Shipping Information:"
+          - generic [ref=e301]: Free Pony Express Delivery!
+          - generic [ref=e302]: Price Total
+          - generic [ref=e303]: "Item total: $7.99"
+          - generic [ref=e304]: "Tax: $0.64"
+          - generic [ref=e305]: "Total: $8.63"
+          - generic [ref=e306]:
+            - button "Cancel" [ref=e307] [cursor=pointer]
+            - button "Finish" [ref=e308] [cursor=pointer]
+  - contentinfo [ref=e309]:
+    - list [ref=e310]:
+      - listitem [ref=e311]:
+        - link "X" [ref=e312] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e313]:
+        - link "Facebook" [ref=e314] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e315]:
+        - link "LinkedIn" [ref=e316] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e317]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

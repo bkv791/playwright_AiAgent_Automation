@@ -1,0 +1,46 @@
+- generic [ref=e318]:
+  - generic [ref=e319]:
+    - banner [ref=e320]:
+      - generic [ref=e321]:
+        - generic:
+          - generic:
+            - generic [ref=e322]:
+              - button "Open Menu" [ref=e323] [cursor=pointer]
+              - img "Open Menu" [ref=e324]
+            - generic [ref=e347]:
+              - navigation [ref=e349]:
+                - button "All Items" [ref=e350] [cursor=pointer]
+                - button "Dynamic Catalog" [expanded] [active] [ref=e351] [cursor=pointer]
+                - generic [ref=e359]:
+                  - button "Lazy Load" [ref=e360] [cursor=pointer]
+                  - button "Spinner" [ref=e361] [cursor=pointer]
+                  - button "Slider" [ref=e362] [cursor=pointer]
+                - link "About" [ref=e353] [cursor=pointer]:
+                  - /url: https://saucelabs.com/
+                - button "Logout" [ref=e354] [cursor=pointer]
+                - button "Reset App State" [ref=e355] [cursor=pointer]
+              - generic [ref=e356]:
+                - button "Close Menu" [ref=e357] [cursor=pointer]
+                - img "Close Menu" [ref=e358]
+        - generic [ref=e325]: Swag Labs
+        - button "Cart, empty" [ref=e328]
+      - generic [ref=e329]: "Checkout: Complete!"
+    - main [ref=e331]:
+      - img "Pony Express" [ref=e332]
+      - heading "Thank you for your order!" [level=2] [ref=e333]
+      - generic [ref=e334]: Your order has been dispatched, and will arrive just as fast as the pony can get there!
+      - generic [ref=e335]:
+        - button "Back Home" [ref=e336] [cursor=pointer]
+        - button "Generate PDF order" [ref=e337] [cursor=pointer]
+  - contentinfo [ref=e338]:
+    - list [ref=e339]:
+      - listitem [ref=e340]:
+        - link "X" [ref=e341] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e342]:
+        - link "Facebook" [ref=e343] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e344]:
+        - link "LinkedIn" [ref=e345] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e346]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
